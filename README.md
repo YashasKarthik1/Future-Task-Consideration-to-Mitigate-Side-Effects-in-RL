@@ -12,8 +12,11 @@ Reference Paper - [Avoiding Side Effects By Considering Future Tasks]([https://e
 
 ## Code explanation
 QLearning.py - Code for barebone Q-learning algorithm on gridworld environment.
+
 reversibilityWithAuxReward.py - Code for the Q-learning algorithm implemented with an auxiliary reward for the reversibility scenario.
+
 stochasticWithAuxReward.py - Code for the Q-Learning algorithm implemented with considering future tasks in a stochastic policy setting.
+
 stochasticWithAuxReward2futureTasks.py - Code for the Q-Learning algorithm implemented with considering future tasks which do not involve the box.
 
 ## Environment used
